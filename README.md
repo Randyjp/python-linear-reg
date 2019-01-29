@@ -1,11 +1,11 @@
-#Linear Regression Using Python
+# Linear Regression Using Python
 
 For a detailed explanation of this code take a look [here](https://randyperez.tech//blog/linear-regression).
 
 
-##Steps to run. 
+## Steps to run. 
 
-###Make sure you have Python and Pip installed. 
+### Make sure you have Python and Pip installed. 
 
 ```
 $ python --version
@@ -17,20 +17,20 @@ $ pip --version
 
 If you are missing any of those, follow the  instructions for your operating system: [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/)
 
-###Install Pipenv
+### Install Pipenv
 
 ```
 $ pip install --user pipenv
 ```
 
 If pipenv is not available in in your shell after the installation you might have to add it to your system PATH. Click [here](https://docs.python-guide.org/dev/virtualenvs/) for instructions.
-###Clone the repository 
+### Clone the repository 
 
 ```
 $ git clone https://github.com/Randyjp/python-linear-reg.git
 ```
 
-###Installing project's packages
+### Installing project's packages
 
 ```
 $ cd python-linear-reg
